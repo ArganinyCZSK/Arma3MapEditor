@@ -33,9 +33,7 @@ Používáním programu vyjadřuješ souhlas s těmito podmínkami. Pokud s nimi
 
 Program používá knihovny třetích stran: Helix Toolkit (WPF.SharpDX) – © Helix Toolkit contributors, licence MIT (včetně SharpDX – © Alexandre Mutel, licence MIT) a SkiaSharp – © Microsoft Corporation, licence MIT (včetně Skia – © Google Inc., licence BSD-3-Clause).
 
-==============================================================================
-ENGLISH
-------------------------------------------------------------------------------
+--- ENGLISH ---
 (Arg) Map Editor
 © The author (arganinycz). All rights reserved.
 
@@ -68,9 +66,7 @@ By using the software you agree to these terms. If you do not agree, do not use 
 
 The software uses third-party libraries: Helix Toolkit (WPF.SharpDX) – © Helix Toolkit contributors, MIT License (including SharpDX – © Alexandre Mutel, MIT License) and SkiaSharp – © Microsoft Corporation, MIT License (including Skia – © Google Inc., BSD-3-Clause License).
 
-==============================================================================
-DATA Z OPENSTREETMAP A VÝŠKOVÁ DATA / OPENSTREETMAP AND ELEVATION DATA
-==============================================================================
+--- DATA Z OPENSTREETMAP A VÝŠKOVÁ DATA / OPENSTREETMAP AND ELEVATION DATA ---
 
 OpenStreetMap
 CZ: OSM Tool stahuje data z OpenStreetMap za běhu programu přímo u uživatele (Overpass API); data nejsou součástí
@@ -104,9 +100,7 @@ are downloaded at run time. Credit these sources when publishing a map:
   * United Kingdom terrain data © Environment Agency copyright and/or database right 2015. All rights reserved;
   * United States 3DEP (formerly NED) and global GMTED2010 and SRTM terrain data courtesy of the U.S. Geological Survey.
 
-==============================================================================
-SOFTWARE TŘETÍCH STRAN / THIRD-PARTY SOFTWARE
-==============================================================================
+--- SOFTWARE TŘETÍCH STRAN / THIRD-PARTY SOFTWARE ---
 
 CZ: Program obsahuje následující knihovny třetích stran. Na ně se nevztahují omezení v bodě 4 výše – platí pro ně
 jejich vlastní licence uvedené níže v plném znění.
