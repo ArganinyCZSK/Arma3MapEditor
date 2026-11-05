@@ -1,5 +1,38 @@
-(Arg) Map Editor – LEGAL / PRÁVNÍ UPOZORNĚNÍ A LICENCE
-ČESKY
+(Arg) Map Editor – LEGAL NOTICE AND LICENSE / PRÁVNÍ UPOZORNĚNÍ A LICENCE
+ENGLISH
+(Arg) Map Editor
+© The author (arganinycz). All rights reserved.
+
+1. PROVIDED "AS IS"
+The software is provided "as is", without warranty of any kind, express or implied, including but not limited to warranties of functionality, fitness for a particular purpose, freedom from errors or uninterrupted operation.
+
+2. LIMITATION OF LIABILITY
+The author shall not be liable for any direct, indirect, incidental or consequential damages arising from the use of, or inability to use, the software. This includes in particular loss of or damage to data, projects, maps and files; damage to hardware, software or the operating system; damage to game installations, addons or the P: work drive; lost profits; and any other problems caused by the software. You use the software entirely at your own risk. Back up your data regularly.
+
+3. USER-SUPPLIED DATA
+You are solely responsible for all data, files, models, textures, heightmaps, images and other content you enter into, import into or produce with the software. The author is not responsible for its content, legality, infringement of copyright or other third-party rights, nor for its loss or damage. Only use content you have the necessary rights to.
+
+4. RESTRICTIONS
+Without the author's prior written consent you may not:
+ • sell, resell, rent, lease or otherwise commercially exploit the software or any part of it;
+ • copy, share, publish or further distribute the software in any form (including uploading it to other websites, servers, storage services or torrents);
+ • use the software, its code, outputs, documentation or any part of it to train, fine-tune, test or evaluate artificial intelligence or machine-learning models, or include it in datasets for such purposes;
+ • modify, decompile, reverse engineer or create derivative works of the software, except where expressly permitted by law;
+ • remove or alter copyright notices or these terms;
+ • circumvent the sign-in, protection or restrictions of the software.
+
+5. ACCOUNT AND SIGN-IN
+Access to the software is tied to a user account. The author reserves the right to restrict or revoke an account or access at any time, in particular if these terms are violated.
+
+6. TRADEMARKS
+Arma 3, Terrain Builder and related names are trademarks of Bohemia Interactive a.s. This software is not an official Bohemia Interactive product and is not affiliated with or endorsed by Bohemia Interactive.
+
+7. FINAL PROVISIONS
+By using the software you agree to these terms. If you do not agree, do not use the software and delete it. The author may change these terms at any time. Violation of these terms may result in legal action.
+
+The software uses third-party libraries: Helix Toolkit (WPF.SharpDX) – © Helix Toolkit contributors, MIT License (including SharpDX – © Alexandre Mutel, MIT License) and SkiaSharp – © Microsoft Corporation, MIT License (including Skia – © Google Inc., BSD-3-Clause License).
+
+--- ČESKY ---
 ------------------------------------------------------------------------------
 (Arg) Map Editor
 © Autor programu (arganinycz). Všechna práva vyhrazena.
@@ -33,58 +66,26 @@ Používáním programu vyjadřuješ souhlas s těmito podmínkami. Pokud s nimi
 
 Program používá knihovny třetích stran: Helix Toolkit (WPF.SharpDX) – © Helix Toolkit contributors, licence MIT (včetně SharpDX – © Alexandre Mutel, licence MIT) a SkiaSharp – © Microsoft Corporation, licence MIT (včetně Skia – © Google Inc., licence BSD-3-Clause).
 
---- ENGLISH ---
-(Arg) Map Editor
-© The author (arganinycz). All rights reserved.
-
-1. PROVIDED "AS IS"
-The software is provided "as is", without warranty of any kind, express or implied, including but not limited to warranties of functionality, fitness for a particular purpose, freedom from errors or uninterrupted operation.
-
-2. LIMITATION OF LIABILITY
-The author shall not be liable for any direct, indirect, incidental or consequential damages arising from the use of, or inability to use, the software. This includes in particular loss of or damage to data, projects, maps and files; damage to hardware, software or the operating system; damage to game installations, addons or the P: work drive; lost profits; and any other problems caused by the software. You use the software entirely at your own risk. Back up your data regularly.
-
-3. USER-SUPPLIED DATA
-You are solely responsible for all data, files, models, textures, heightmaps, images and other content you enter into, import into or produce with the software. The author is not responsible for its content, legality, infringement of copyright or other third-party rights, nor for its loss or damage. Only use content you have the necessary rights to.
-
-4. RESTRICTIONS
-Without the author's prior written consent you may not:
- • sell, resell, rent, lease or otherwise commercially exploit the software or any part of it;
- • copy, share, publish or further distribute the software in any form (including uploading it to other websites, servers, storage services or torrents);
- • use the software, its code, outputs, documentation or any part of it to train, fine-tune, test or evaluate artificial intelligence or machine-learning models, or include it in datasets for such purposes;
- • modify, decompile, reverse engineer or create derivative works of the software, except where expressly permitted by law;
- • remove or alter copyright notices or these terms;
- • circumvent the sign-in, protection or restrictions of the software.
-
-5. ACCOUNT AND SIGN-IN
-Access to the software is tied to a user account. The author reserves the right to restrict or revoke an account or access at any time, in particular if these terms are violated.
-
-6. TRADEMARKS
-Arma 3, Terrain Builder and related names are trademarks of Bohemia Interactive a.s. This software is not an official Bohemia Interactive product and is not affiliated with or endorsed by Bohemia Interactive.
-
-7. FINAL PROVISIONS
-By using the software you agree to these terms. If you do not agree, do not use the software and delete it. The author may change these terms at any time. Violation of these terms may result in legal action.
-
-The software uses third-party libraries: Helix Toolkit (WPF.SharpDX) – © Helix Toolkit contributors, MIT License (including SharpDX – © Alexandre Mutel, MIT License) and SkiaSharp – © Microsoft Corporation, MIT License (including Skia – © Google Inc., BSD-3-Clause License).
-
---- DATA Z OPENSTREETMAP A VÝŠKOVÁ DATA / OPENSTREETMAP AND ELEVATION DATA ---
+--- OPENSTREETMAP AND ELEVATION DATA / DATA Z OPENSTREETMAP A VÝŠKOVÁ DATA ---
 
 OpenStreetMap
-CZ: OSM Tool stahuje data z OpenStreetMap za běhu programu přímo u uživatele (Overpass API); data nejsou součástí
-programu. Data OpenStreetMap jsou © OpenStreetMap contributors a jsou k dispozici pod licencí Open Database
-License (ODbL) 1.0 – https://www.openstreetmap.org/copyright. Kdo zveřejní hotovou mapu vytvořenou z těchto dat
-(např. na Steam Workshopu), musí uvést „© OpenStreetMap contributors“ s odkazem na openstreetmap.org/copyright
-(v popisu mapy nebo ve hře). Upravená databáze odvozená z dat OSM musí být sdílena pod stejnou licencí (ODbL).
 EN: The OSM Tool downloads OpenStreetMap data at run time on the user's machine (Overpass API); the data is not
 part of the software. OpenStreetMap data is © OpenStreetMap contributors and is available under the Open Database
 License (ODbL) 1.0 – https://www.openstreetmap.org/copyright. Whoever publishes a finished map made from this data
 (e.g. on the Steam Workshop) must credit "© OpenStreetMap contributors" with a link to openstreetmap.org/copyright
 (in the map description or in game). An adapted database derived from OSM data must be shared under the same
 licence (ODbL).
+CZ: OSM Tool stahuje data z OpenStreetMap za běhu programu přímo u uživatele (Overpass API); data nejsou součástí
+programu. Data OpenStreetMap jsou © OpenStreetMap contributors a jsou k dispozici pod licencí Open Database
+License (ODbL) 1.0 – https://www.openstreetmap.org/copyright. Kdo zveřejní hotovou mapu vytvořenou z těchto dat
+(např. na Steam Workshopu), musí uvést „© OpenStreetMap contributors“ s odkazem na openstreetmap.org/copyright
+(v popisu mapy nebo ve hře). Upravená databáze odvozená z dat OSM musí být sdílena pod stejnou licencí (ODbL).
 
-Terrain Tiles (výšková data / elevation data)
-CZ: Výšky terénu v OSM Tool pocházejí z Terrain Tiles (Mapzen, AWS Open Data) a stahují se za běhu. Při zveřejnění
-mapy uveď tyto zdroje. / EN: Terrain heights in the OSM Tool come from Terrain Tiles (Mapzen, AWS Open Data) and
+Terrain Tiles (elevation data / výšková data)
+EN: Terrain heights in the OSM Tool come from Terrain Tiles (Mapzen, AWS Open Data) and
 are downloaded at run time. Credit these sources when publishing a map:
+CZ: Výšky terénu v OSM Tool pocházejí z Terrain Tiles (Mapzen, AWS Open Data) a stahují se za běhu. Při zveřejnění
+mapy uveď tyto zdroje.
   * Mapzen
   * ArcticDEM terrain data DEM(s) were created from DigitalGlobe, Inc., imagery and funded under National Science
     Foundation awards 1043681, 1559691, and 1542736;
@@ -100,12 +101,12 @@ are downloaded at run time. Credit these sources when publishing a map:
   * United Kingdom terrain data © Environment Agency copyright and/or database right 2015. All rights reserved;
   * United States 3DEP (formerly NED) and global GMTED2010 and SRTM terrain data courtesy of the U.S. Geological Survey.
 
---- SOFTWARE TŘETÍCH STRAN / THIRD-PARTY SOFTWARE ---
+--- THIRD-PARTY SOFTWARE / SOFTWARE TŘETÍCH STRAN ---
 
-CZ: Program obsahuje následující knihovny třetích stran. Na ně se nevztahují omezení v bodě 4 výše – platí pro ně
-jejich vlastní licence uvedené níže v plném znění.
 EN: The software includes the following third-party libraries. The restrictions in section 4 above do not apply
 to them – they are governed by their own licences, reproduced in full below.
+CZ: Program obsahuje následující knihovny třetích stran. Na ně se nevztahují omezení v bodě 4 výše – platí pro ně
+jejich vlastní licence uvedené níže v plném znění.
 
 --- Helix Toolkit (HelixToolkit.Wpf.SharpDX, HelixToolkit.SharpDX, HelixToolkit.Maths, HelixToolkit.Geometry, HelixToolkit) – https://github.com/helix-toolkit/helix-toolkit ---
 The MIT License (MIT)
